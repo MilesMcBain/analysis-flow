@@ -27,7 +27,8 @@ to PR any resources or ideas, or just submit an issue for discussion.
 ### Blog Posts   
 + [Benefits of a function-based diet (The {drake} post) - Miles McBain](https://milesmcbain.xyz/the-drake-post/)
 + [Structuring R Projects](https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/)   
-+ [Using {drake} for Machine Learning](https://edwinth.github.io/blog/drake-ml/)  
++ [Using {drake} for Machine Learning](https://edwinth.github.io/blog/drake-ml/)
++ [R workflow fun](https://maraaverick.rbind.io/2017/09/r-workflow-fun/)
 
 ### Books  
 + [Agile Data Science with R](https://edwinth.github.io/ADSwR/)  
