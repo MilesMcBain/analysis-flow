@@ -38,6 +38,7 @@ to PR any resources or ideas, or just submit an issue for discussion.
 + [Packaging Data Analytical Work Reproducibly Using R (and Friends)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)   
 + [Packaging Data Analytical Work Reproducibly Using R (and Friends)](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)  
 + [Opinionated analysis development, Parker (2017)](https://peerj.com/preprints/3210/)  
++ [Principles for data analysis workflows (2007)](https://arxiv.org/pdf/2007.08708.pdf)
 
 ### Talks   
 + [Community Call - Reproducible Research with R](https://ropensci.org/blog/2019/07/11/commcall-jul2019/)  
